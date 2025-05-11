@@ -1,6 +1,6 @@
 ![title image]()
 
-*A 3D browser game where you must collect 12 orbs hidden across a surreal dream world to escape before morning.*  
+### A 3D browser game where you must collect 12 orbs hidden across a surreal dream world to escape before morning. 
 Built with **Babylon.js** and **JavaScript** for the **Games On Web 2025** contest.
 
 # ⏰ ESCAPE BEFORE IT'S TOO LATE!
