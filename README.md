@@ -46,7 +46,8 @@ Once all 12 orbs are collected, the **escape portal** will open. Will you make i
 - **SPACE** — Jump  
 - **SHIFT** — Run  
 - **Mouse** — Look around  
-- **Mouse Wheel** — Zoom in/out  
+- **Mouse Wheel** — Zoom in/out
+
 🖱️ *Click anywhere on the screen to control the camera (your cursor will disappear).*  
 ⎋ *Press ESC or click again to show the mouse.* 
 
@@ -58,7 +59,7 @@ Once all 12 orbs are collected, the **escape portal** will open. Will you make i
 - **HELP** — Show gameplay instructions  
 - **PAUSE** — Pause the game  
 
-> # [Need Help ?](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ed6a6193d2ab1dec32828a9f32c1e4b6bdcc025e/Documentation.md)
+> ### [Need Help ?](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ed6a6193d2ab1dec32828a9f32c1e4b6bdcc025e/Documentation.md)
 
 ### 👥 Team Presentation  
 We are three students from **Polytech Nice Sophia**, currently in our **first year of engineering cycle** : 
@@ -91,6 +92,7 @@ Une fois les 12 orbes récupérées, le **portail d’éveil** apparaîtra. Sere
 - **SHIFT** — Courir  
 - **Souris** — Regarder autour de soi  
 - **Molette de la souris** — Zoomer/dézoomer
+
 🖱️ *Cliquez sur l’écran pour regarder autour de vous (le curseur disparaîtra).*  
 ⎋ *Pressez ECHAP ou cliquez à nouveau pour afficher le curseur.*  
 
@@ -102,7 +104,7 @@ Une fois les 12 orbes récupérées, le **portail d’éveil** apparaîtra. Sere
 - **HELP** — Afficher les instructions du jeu  
 - **PAUSE** — Mettre le jeu en pause  
 
-> # [Besoin d'aide ?](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ed6a6193d2ab1dec32828a9f32c1e4b6bdcc025e/Documentation.md)
+> ### [Besoin d'aide ?](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ed6a6193d2ab1dec32828a9f32c1e4b6bdcc025e/Documentation.md)
 
 ### 👥 Présentation de l’équipe  
 Nous sommes **trois étudiants** à **Polytech Nice Sophia**, actuellement en **première année de cycle ingénieur** : : 
