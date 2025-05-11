@@ -36,9 +36,7 @@ To wake up and escape the dream, you must:
 - Explore a mysterious dreamscape full of floating islands and illusions
 
 Once all 12 orbs are collected, the **escape portal** will open. Will you make it out before morning?
-
-🖱️ *Click anywhere on the screen to control the camera (your cursor will disappear).*  
-⎋ *Press ESC or click again to show the mouse.*  
+ 
 ⚠️ *Using a laptop? Plug it in for smoother gameplay.*
 
 ### ⚙️ Functionality and Options
@@ -49,6 +47,8 @@ Once all 12 orbs are collected, the **escape portal** will open. Will you make i
 - **SHIFT** — Run  
 - **Mouse** — Look around  
 - **Mouse Wheel** — Zoom in/out  
+🖱️ *Click anywhere on the screen to control the camera (your cursor will disappear).*  
+⎋ *Press ESC or click again to show the mouse.* 
 
 #### 📋 In-Game Menu Options
 - **STYLE** — Change your character’s appearance  
@@ -58,8 +58,7 @@ Once all 12 orbs are collected, the **escape portal** will open. Will you make i
 - **HELP** — Show gameplay instructions  
 - **PAUSE** — Pause the game  
 
-> Warning
-> [Need Help ?](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ed6a6193d2ab1dec32828a9f32c1e4b6bdcc025e/Documentation.md)
+> # [Need Help ?](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ed6a6193d2ab1dec32828a9f32c1e4b6bdcc025e/Documentation.md)
 
 ### 👥 Team Presentation  
 We are three students from **Polytech Nice Sophia**, currently in our **first year of engineering cycle** : 
@@ -82,8 +81,6 @@ Pour vous échapper de ce cauchemar, vous devrez :
 
 Une fois les 12 orbes récupérées, le **portail d’éveil** apparaîtra. Serez-vous assez rapide pour vous réveiller à temps ?
 
-🖱️ *Cliquez sur l’écran pour regarder autour de vous (le curseur disparaîtra).*  
-⎋ *Pressez ECHAP ou cliquez à nouveau pour afficher le curseur.*  
 ⚠️ *Si vous jouez sur un PC portable, branchez-le sur secteur pour de meilleures performances.*
 
 ### ⚙️ Fonctionnement et options
@@ -93,7 +90,9 @@ Une fois les 12 orbes récupérées, le **portail d’éveil** apparaîtra. Sere
 - **ESPACE** — Sauter  
 - **SHIFT** — Courir  
 - **Souris** — Regarder autour de soi  
-- **Molette de la souris** — Zoomer/dézoomer  
+- **Molette de la souris** — Zoomer/dézoomer
+🖱️ *Cliquez sur l’écran pour regarder autour de vous (le curseur disparaîtra).*  
+⎋ *Pressez ECHAP ou cliquez à nouveau pour afficher le curseur.*  
 
 #### 📋 Menu du jeu
 - **STYLE** — Changer l'apparence du personnage  
@@ -102,6 +101,8 @@ Une fois les 12 orbes récupérées, le **portail d’éveil** apparaîtra. Sere
 - **SOUND** — Régler le son ou couper musique/effets sonores  
 - **HELP** — Afficher les instructions du jeu  
 - **PAUSE** — Mettre le jeu en pause  
+
+> # [Besoin d'aide ?](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ed6a6193d2ab1dec32828a9f32c1e4b6bdcc025e/Documentation.md)
 
 ### 👥 Présentation de l’équipe  
 Nous sommes **trois étudiants** à **Polytech Nice Sophia**, actuellement en **première année de cycle ingénieur** : : 
