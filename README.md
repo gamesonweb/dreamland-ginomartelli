@@ -7,7 +7,7 @@ Built with **Babylon.js** and **JavaScript** for the **Games On Web 2025** conte
 - ## [🎮 Play !](#)
 - ## [🔎 Presentation Video](#)
 - ## [🎞️ Trailer](#)
-- ## [📁 Documentation]()
+- ## [📁 Documentation](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ed6a6193d2ab1dec32828a9f32c1e4b6bdcc025e/Documentation.md)
 - ## [⚙️ Source Code](https://github.com/ginomartelli/Dream-scape)
 
 
@@ -57,6 +57,9 @@ Once all 12 orbs are collected, the **escape portal** will open. Will you make i
 - **SOUND** — Adjust volume and toggle music/sound effects  
 - **HELP** — Show gameplay instructions  
 - **PAUSE** — Pause the game  
+
+> Warning
+> [Need Help ?](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ed6a6193d2ab1dec32828a9f32c1e4b6bdcc025e/Documentation.md)
 
 ### 👥 Team Presentation  
 We are three students from **Polytech Nice Sophia**, currently in our **first year of engineering cycle** : 
