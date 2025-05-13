@@ -4,7 +4,7 @@
 Built with **Babylon.js** and **JavaScript** for the **Games On Web 2025** contest.
 
 # ⏰ ESCAPE BEFORE IT'S TOO LATE!
-- ## [🎮 Play !](#)
+- ## [🎮 Play !](https://ginomartelli.github.io/Dream-scape/)
 - ## [🔎 Presentation Video](#)
 - ## [🎞️ Trailer](#)
 - ## [📁 Documentation](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ed6a6193d2ab1dec32828a9f32c1e4b6bdcc025e/Documentation.md)
@@ -12,14 +12,14 @@ Built with **Babylon.js** and **JavaScript** for the **Games On Web 2025** conte
 
 
 ## 🧭 TABLE OF CONTENTS
-- ### [🇬🇧 English version](#🇬🇧-english-version)
-  - #### [🎮 Game Overview](#🎮-game-overview)
-  - #### [⚙️ Functionality and Options]()
-  - #### [👥 Team Presentation](#👥-team-presentation)
-- ### [🇫🇷 Version française](#🇫🇷-version-française)
-  - #### [🎮 Description du jeu](#🎮-description-du-jeu)
-  - #### [⚙️ Fonctionnement et options]()
-  - #### [👥 Présentation de l'équipe](#👥-présentation-de-léquipe)
+- ### [🇬🇧 English version](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-english-version-1)
+  - #### [🎮 Game Overview](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-game-overview-1)
+  - #### [⚙️ Functionality and Options](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#%EF%B8%8F-functionality-and-options-1)
+  - #### [👥 Team Presentation](http://github.com/ginomartelli/Dream-scape/blob/main/README.md#-team-presentation-1)
+- ### [🇫🇷 Version française](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-version-fran%C3%A7aise-1)
+  - #### [🎮 Description du jeu](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-description-du-jeu-1)
+  - #### [⚙️ Fonctionnement et options](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#%EF%B8%8F-fonctionnement-et-options-1)
+  - #### [👥 Présentation de l'équipe](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-pr%C3%A9sentation-de-l%C3%A9quipe-1)
 
 ---
 
