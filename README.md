@@ -6,7 +6,6 @@ Built with **Babylon.js** and **JavaScript** for the **Games On Web 2025** conte
 # ⏰ ESCAPE BEFORE IT'S TOO LATE!
 - ## [🎮 Play !](https://ginomartelli.github.io/Dream-scape/)
 - ## [🔎 Presentation Video](#)
-- ## [🎞️ Trailer](#)
 - ## [💯 12 Orbs Speedrun](https://youtu.be/XJVGw6Uxr3U)
 - ## [📁 Documentation](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ed6a6193d2ab1dec32828a9f32c1e4b6bdcc025e/Documentation.md)
 - ## [⚙️ Source Code](https://github.com/ginomartelli/Dream-scape)
@@ -38,22 +37,27 @@ To wake up and escape the dream, you must:
 
 Once all 12 orbs are collected, the **escape portal** will open. Will you make it out before morning?
  
-⚠️ *Using a laptop? Plug it in for smoother gameplay.*
+> [!IMPORTANT]
+> ⚡ Plug in your laptop and disable Battery Saver / Eco Mode for a smoother gameplay.
+> 
+> 🖥️ Use CTRL + mouse wheel to adjust display quality.
+>
+> 🔥 This game uses glow and shadow effects : a good GPU helps!
+
+>[!CAUTION]
+> ❌ The game is not working on the Opera browser (GPU) ! Use another browser to play DREAM'SCAPE.
+
 
 ### ⚙️ Functionality and Options
 
-#### 🎮 Controls
-- **ZQSD** — Move around  
-- **SPACE** — Jump  
-- **SHIFT** — Run  
-- **Mouse** — Look around  
-- **Mouse Wheel** — Zoom in/out
-
-🖱️ *Click anywhere on the screen to control the camera (your cursor will disappear).*  
-⎋ *Press ESC or click again to show the mouse.* 
+#### 🎮 How to Play ?
+- 🕹️ Use **ZQSD** to Move, **Space** to Jump and **Shift** to Run. You can change the keybinds in the Controls Menu!
+- 👀 Click anywhere on the screen to control the camera — your mouse cursor will disappear.
+- 🔍 To show the cursor again, press ESC or click again. Use the mouse wheel to zoom in and out.
+- 🌀 Select a unlocked checkpoint to teleport to it.
 
 #### 📋 In-Game Menu Options
-- **STYLE** — Change your character’s appearance  
+- **STYLE** — Change your character’s appearance 
 - **CONTROLS** — Customize key bindings and mouse sensitivity  
 - **CHECKPOINT** — Teleport instantly to any unlocked checkpoint  
 - **SOUND** — Adjust volume and toggle music/sound effects  
@@ -66,6 +70,11 @@ Once all 12 orbs are collected, the **escape portal** will open. Will you make i
 We are three students from **Polytech Nice Sophia**, currently in our **first year of engineering cycle** : 
 Amy Joseph, Clarisse Carpentier and Gino Martelli.
 This game was created as part of the **Games On Web 2025** competition.
+
+
+
+
+
 
 ---
 
