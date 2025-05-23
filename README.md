@@ -7,25 +7,27 @@ Built with **Babylon.js** and **JavaScript** for the **Games On Web 2025** conte
 - ## [🎮 Play !](https://ginomartelli.github.io/Dream-scape/)
 - ## [🔎 Presentation Video](#)
 - ## [💯 12 Orbs Speedrun](https://youtu.be/XJVGw6Uxr3U)
-- ## [📁 Documentation](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ed6a6193d2ab1dec32828a9f32c1e4b6bdcc025e/Documentation.md)
-- ## [⚙️ Source Code](https://github.com/ginomartelli/Dream-scape)
+- ## [📝 Documentation](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ed6a6193d2ab1dec32828a9f32c1e4b6bdcc025e/Documentation.md)
+- ## [📁 Source Code](https://github.com/ginomartelli/Dream-scape)
 
 
 ## 🧭 TABLE OF CONTENTS
 - ### [🇬🇧 English version](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-english-version-1)
-  - #### [🎮 Game Overview](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-game-overview-1)
-  - #### [⚙️ Functionality and Options](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#%EF%B8%8F-functionality-and-options-1)
-  - #### [👥 Team Presentation](http://github.com/ginomartelli/Dream-scape/blob/main/README.md#-team-presentation-1)
+  - [🔍 Game Overview](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-game-overview-1)
+  - [🎮 How to Play](https://github.com/gamesonweb/dreamland-ginomartelli/edit/main/README.md#-how-to-play-)
+  - [⚙ In-Game Menu Options]()
+  - [👥 Team Presentation](http://github.com/ginomartelli/Dream-scape/blob/main/README.md#-team-presentation-1)
 - ### [🇫🇷 Version française](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-version-fran%C3%A7aise-1)
-  - #### [🎮 Description du jeu](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-description-du-jeu-1)
-  - #### [⚙️ Fonctionnement et options](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#%EF%B8%8F-fonctionnement-et-options-1)
-  - #### [👥 Présentation de l'équipe](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-pr%C3%A9sentation-de-l%C3%A9quipe-1)
+  - [🔍 Description du Jeu](https://github.com/ginomartelli/Dream-scape/blob/main/README.md)
+  - [🎮 Comment Jouer](https://github.com/gamesonweb/dreamland-ginomartelli/edit/main/README.md)
+  - [⚙ Options Du Menu]()
+  - [👥 Présentation de l'équipe](http://github.com/ginomartelli/Dream-scape/blob/main/README.md)
 
 ---
 
 ## 🇬🇧 English version
 
-### 🎮 Game Overview  
+### 🔍 Game Overview  
 You play as a student trapped inside a strange dream. Floating islands, puzzles and surreal environments surround you.  
 But there's a problem: **you have class tomorrow morning** — and time is ticking.
 
@@ -47,16 +49,13 @@ Once all 12 orbs are collected, the **escape portal** will open. Will you make i
 >[!CAUTION]
 > ❌ The game is not working on the Opera browser (GPU) ! Use another browser to play DREAM'SCAPE.
 
-
-### ⚙️ Functionality and Options
-
-#### 🎮 How to Play ?
+### 🎮 How to Play ?
 - 🕹️ Use **ZQSD** to Move, **Space** to Jump and **Shift** to Run. You can change the keybinds in the Controls Menu!
 - 👀 Click anywhere on the screen to control the camera — your mouse cursor will disappear.
 - 🔍 To show the cursor again, press ESC or click again. Use the mouse wheel to zoom in and out.
 - 🌀 Select a unlocked checkpoint to teleport to it.
 
-#### 📋 In-Game Menu Options
+### 📋 In-Game Menu Options
 - **STYLE** — Change your character’s appearance 
 - **CONTROLS** — Customize key bindings and mouse sensitivity  
 - **CHECKPOINT** — Teleport instantly to any unlocked checkpoint  
@@ -64,16 +63,20 @@ Once all 12 orbs are collected, the **escape portal** will open. Will you make i
 - **HELP** — Show gameplay instructions  
 - **PAUSE** — Pause the game  
 
-> ### [Need Help ?](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ed6a6193d2ab1dec32828a9f32c1e4b6bdcc025e/Documentation.md)
+>[!TIP]
+>More information in the [Documentation](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ed6a6193d2ab1dec32828a9f32c1e4b6bdcc025e/Documentation.md)
+>
+>Need help ? Watch the [Completion Video](https://youtu.be/XJVGw6Uxr3U)
+
 
 ### 👥 Team Presentation  
 We are three students from **Polytech Nice Sophia**, currently in our **first year of engineering cycle** : 
-Amy Joseph, Clarisse Carpentier and Gino Martelli.
+- Amy Joseph : 
+- Clarisse Carpentier:
+- Gino Martelli :
+ 
 This game was created as part of the **Games On Web 2025** competition.
-
-
-
-
+Watch the **[Presentation Video]()** to learn more about us and our project.
 
 
 ---
