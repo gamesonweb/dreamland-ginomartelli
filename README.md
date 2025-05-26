@@ -16,13 +16,13 @@ Built with **Babylon.js** and **JavaScript** for the **Games On Web 2025** conte
 - ### [🇬🇧 English version](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-english-version-1)
   - [🔍 Game Overview](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-game-overview-1)
   - [🎮 How to Play](https://github.com/gamesonweb/dreamland-ginomartelli/edit/main/README.md#-how-to-play-)
-  - [⚙ In-Game Menu Options]()
+  - [⚙ In-Game Menu Options](https://github.com/gamesonweb/dreamland-ginomartelli/edit/main/README.md#-in-game-menu-options)
   - [👥 Team Presentation](http://github.com/ginomartelli/Dream-scape/blob/main/README.md#-team-presentation-1)
 - ### [🇫🇷 Version française](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-version-fran%C3%A7aise-1)
-  - [🔍 Présentation du Jeu](https://github.com/ginomartelli/Dream-scape/blob/main/README.md)
-  - [🎮 Comment Jouer](https://github.com/gamesonweb/dreamland-ginomartelli/edit/main/README.md)
-  - [⚙ Options Du Menu]()
-  - [👥 Présentation de l'équipe](http://github.com/ginomartelli/Dream-scape/blob/main/README.md)
+  - [🔍 Présentation du Jeu](https://github.com/gamesonweb/dreamland-ginomartelli/edit/main/README.md#-pr%C3%A9sentation-du-jeu)
+  - [🎮 Comment Jouer](https://github.com/gamesonweb/dreamland-ginomartelli/edit/main/README.md#-comment-jouer-)
+  - [⚙ Options Du Menu](https://github.com/gamesonweb/dreamland-ginomartelli/edit/main/README.md#-options-du-menu-en-jeu)
+  - [👥 Présentation de l'équipe](https://github.com/gamesonweb/dreamland-ginomartelli/edit/main/README.md#-team-presentation-1)
 
 ---
 
@@ -81,6 +81,7 @@ Last year, Amy and Gino took part in the contest with another teammate.
 It was our first experience with programming, and we proudly received the Jury’s Prize!
 
 This year, we’ve pushed ourselves further with DREAM'SCAPE, a game that blends exploration, logic, and speed in a surreal universe.
+
 🎥 Watch the **[Presentation Video]()** to learn more about us and our project.
 
 
@@ -142,5 +143,6 @@ L’an dernier, Amy et Gino avaient déjà participé au concours avec un autre 
 C’était notre première expérience en programmation, et nous avons eu la fierté de recevoir le Prix du Jury !
 
 Cette année, nous sommes allés plus loin avec DREAM'SCAPE, un jeu mêlant exploration, logique et vitesse dans un univers surréaliste.
+
 🎥 Regardez la **[Presentation Video]()** pour en savoir plus sur nous et notre projet.
 
