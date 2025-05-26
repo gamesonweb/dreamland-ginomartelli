@@ -22,7 +22,7 @@ Built with **Babylon.js** and **JavaScript** for the **Games On Web 2025** conte
   - [🔍 Présentation du Jeu](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-pr%C3%A9sentation-du-jeu)
   - [🎮 Comment Jouer](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-comment-jouer-)
   - [⚙ Options Du Menu](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-options-du-menu-en-jeu)
-  - [👥 Présentation de l'équipe](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-team-presentation-1)
+  - [👥 Présentation de l'équipe](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-pr%C3%A9sentation-de-l%C3%A9quipe)
 
 ---
 
