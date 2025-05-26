@@ -14,7 +14,7 @@ Built with **Babylon.js** and **JavaScript** for the **Games On Web 2025** conte
 
 ## 🧭 TABLE OF CONTENTS
 - ### [🇬🇧 English version](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-english-version-1)
-  - [🔍 Game Overview](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-game-overview-1)
+  - [🔍 Game Overview](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-game-overview)
   - [🎮 How to Play](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-how-to-play-)
   - [⚙ In-Game Menu Options](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-in-game-menu-options)
   - [👥 Team Presentation](http://github.com/ginomartelli/Dream-scape/blob/main/README.md#-team-presentation-1)
