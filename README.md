@@ -133,7 +133,7 @@ Serez-vous assez rapide pour vous réveiller à temps ?
 >Besoin d'aide ? Regardez la [Completion Video](https://youtu.be/XJVGw6Uxr3U)
 
 
-### 👥 Team Presentation  
+### 👥 Présentation de l'équipe
 Nous sommes 3 étudiants de **Polytech Nice Sophia**, actuellement en 1ère année de cycle ingénieur : 
 - **Amy Joseph**: Specialité *Bâtiments Durables et Intelligents*. Apprentie chez Bouygues Bâtiment Sud-Est.
 - **Clarisse Carpentier**: Specialité *Bâtiments Durables et Intelligents*.
@@ -145,4 +145,3 @@ C’était notre première expérience en programmation, et nous avons eu la fie
 Cette année, nous sommes allés plus loin avec DREAM'SCAPE, un jeu mêlant exploration, logique et vitesse dans un univers surréaliste.
 
 🎥 Regardez la **[Presentation Video]()** pour en savoir plus sur nous et notre projet.
-
