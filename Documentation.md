@@ -23,10 +23,10 @@
 
 ### English Version :
 - #### Detailed Game Description
-  - [General](#general-1)
+  - [General](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/Documentation.md#general)
   - [Controls](#controls)
-  - [Checkpoints](#checkpoints-1)
-  - [Style](#style-1)
+  - [Checkpoints](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/Documentation.md#checkpoints-1)
+  - [Style](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/Documentation.md#style-1)
   - [Other Menu Settings](#other-menu-settings)
   - [Bed](#bed)
   - [Parkour](#parkour)
@@ -35,7 +35,7 @@
   - [Developer Menu](#developer-menu)
 - #### Assets
   - [3D Models](#3d-models)
-  - [Textures](#textures-1)
+  - [Textures](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/Documentation.md#textures-1)
   - [Sounds and Music](#sounds-and-music)
 
 ---
