@@ -4,7 +4,7 @@
 
 ## Sommaire :
 - #### Description détaillée du jeu
-  - [Général](#general)
+  - [Général](#général)
   - [Controls](#controls)
   - [Checkpoints](#checkpoints)
   - [Style](#style)
@@ -27,9 +27,13 @@
 **DREAM'SCAPE** est un jeu d'aventure en 3D à la première personne, jouable dans un navigateur.  
 Le joueur incarne un étudiant piégé dans un rêve étrange, peuplé d’îles flottantes, de mécanismes et d’énigmes.  
 Son objectif : **récupérer 12 orbes dispersées dans le monde** pour activer un portail final et s’échapper **avant la fin du temps imparti (30 minutes)**.
-
 Le jeu repose sur des mécaniques de plateformes, d’observation, et de logique, avec une progression libre entre les différentes zones.
+
+Il faut cliquer sur **Play** pour lancer le jeu. Apres le chargement, le menu **Help** est affiché pour vous aider. Il suffit de cliquer hors du menu **Help** pour le chacher. 
+
 ![image](https://github.com/user-attachments/assets/e4c9f694-2fa2-45b3-9f6b-1b37413a9e04)
+
+Vous commencez dans le lit sur l'île du début. Pour commencer à controler le joueur et la camera, il faut avoir cliqué sur l'écran pour cacher la souris. Le temps commence à s'écouler lorsque le joueur quitte le lit. Bonne chance !
 
 ---
 
@@ -37,28 +41,30 @@ Le jeu repose sur des mécaniques de plateformes, d’observation, et de logique
 
 - **ZQSD** – Déplacement
 - **Espace** – Saut
-- **Shift** – Courir
+- **Shift** – Courir (maintenir) 
 - **Souris** – Orientation de la caméra
 - **Molette** – Zoom avant/arrière
 - **Clic gauche** – Verrouille le curseur pour jouer (pointer lock)
 - **ECHAP ou clic à nouveau** – Affiche le curseur
 
-Les touches sont modifiables via le menu.
+Les touches sont modifiables via le menu **Controls** : Cliquez sur le bouton correspondant au mouvement que vous voulez modifier et cliquez ensuite sur la touche de votre choix.
 
 ![image](https://github.com/user-attachments/assets/e408f429-8a16-4b23-820e-5fa26098829f)
-![image](https://github.com/user-attachments/assets/2474e2e2-876c-4de5-aec5-f1888af73488)
 
-![image](https://github.com/user-attachments/assets/08b7f100-edab-4000-8dec-cadb7b1b91fc)
-![image](https://github.com/user-attachments/assets/ca37013e-d6d8-4e66-968d-f4831b45b49e)
-![image](https://github.com/user-attachments/assets/9436c80e-3abb-4ee6-a33f-ab6f234cb1ec)
-
+Vous pouvez aussi modifier la sensibilité de la camera avec le curseur à droite.
 
 ---
 
 ### Checkpoints
 
-Le monde est structuré autour de **chemins menant à différentes zones**, chacune contenant un orbe.  
-Des **socles lumineux** font office de **checkpoints déverrouillables** : une fois activés, ils permettent de se téléporter à une zone directement depuis le menu ou l’interface HUD.
+Le monde est structuré autour de **chemins menant à différentes zones**, chacune contenant plusieurs orbes.  
+Il y a 12 **socles lumineux** qui font office de **checkpoints déverrouillables**. Il suffit d'aller dessus pour les activer. Il s'ajouteront dans le menu **Checkpoints** et vous pourrez ensuite selectionnez la pastille de la couleur du checkpoint pour vous y teleporter.
+
+![image](https://github.com/user-attachments/assets/2474e2e2-876c-4de5-aec5-f1888af73488)
+
+Lorsque vous tombez dans le vide, vous réapparaitrez au dernier checkpoint débloqué ou utilisé. Lorsque vous n'avez toujours pas de chekpoint débloqué (excepté celui par défaut*) vous réapparaitrez dans le lit.
+
+*Un checkpoint est déja débloqué au début du jeu pour pouvoir vous y téléporter si vous ne pouvez plus bouger (cela n'est jamais arrivé mais des problèmes peuvent toujours arriver sur les ordinateurs les moins puissants). 
 
 ---
 
@@ -81,6 +87,10 @@ Le menu permet :
 - D'ajuster les paramètres visuels (glow, résolution, affichage FPS)
 - De changer la qualité d’affichage
 - De retourner à un checkpoint débloqué
+
+![image](https://github.com/user-attachments/assets/08b7f100-edab-4000-8dec-cadb7b1b91fc)
+![image](https://github.com/user-attachments/assets/ca37013e-d6d8-4e66-968d-f4831b45b49e)
+![image](https://github.com/user-attachments/assets/9436c80e-3abb-4ee6-a33f-ab6f234cb1ec)
 
 Une **interface HUD** simple est également affichée en jeu : temps restant, nombre d’orbes collectées, options.
 
