@@ -8,7 +8,7 @@
   - [Controls](#controls)
   - [Checkpoints](#checkpoints)
   - [Style](#style)
-  - [Menu](#menu)
+  - [Autres paramètres du menu](#autres-paramètres-du-menu)
   - [Lit](#lit)
   - [Parcours](#parcours)
   - [Orbes](#orbes)
@@ -33,7 +33,7 @@ Il faut cliquer sur **Play** pour lancer le jeu. Apres le chargement, le menu **
 
 ![image](https://github.com/user-attachments/assets/e4c9f694-2fa2-45b3-9f6b-1b37413a9e04)
 
-Vous commencez dans le lit sur l'île du début. Pour commencer à controler le joueur et la camera, il faut avoir cliqué sur l'écran pour cacher la souris. Le temps commence à s'écouler lorsque le joueur quitte le lit. Bonne chance !
+Vous commencez dans le lit sur l'île du début. Pour commencer à controler le joueur et la camera, il faut avoir cliqué sur l'écran pour cacher la souris. Le temps commence à s'écouler lorsque le joueur quitte le lit. Le temps restant est affiché en bas : Bonne chance !
 
 ---
 
@@ -70,57 +70,64 @@ Lorsque vous tombez dans le vide, vous réapparaitrez au dernier checkpoint déb
 
 ### Style
 
-Le style graphique est minimaliste mais cohérent :  
-- Univers nocturne et spatial
-- Îles géométriques et éléments brillants
-- Ambiance onirique, renforcée par l’éclairage dynamique et les effets de glow
-
-Tous les éléments visuels sont originaux et ont été créés en 3D spécifiquement pour ce projet.
-
----
-
-### Menu
-
-Le menu permet :
-- De lancer une nouvelle partie
-- De reconfigurer les touches
-- D'ajuster les paramètres visuels (glow, résolution, affichage FPS)
-- De changer la qualité d’affichage
-- De retourner à un checkpoint débloqué
+Vous pouvez changer les couleurs des vetements du joueur : dans le menu **Style**, il suffit de cliquer sur la pastille correspondant au vetement pour choisir la couleur du vetement. 
 
 ![image](https://github.com/user-attachments/assets/08b7f100-edab-4000-8dec-cadb7b1b91fc)
-![image](https://github.com/user-attachments/assets/ca37013e-d6d8-4e66-968d-f4831b45b49e)
-![image](https://github.com/user-attachments/assets/9436c80e-3abb-4ee6-a33f-ab6f234cb1ec)
 
-Une **interface HUD** simple est également affichée en jeu : temps restant, nombre d’orbes collectées, options.
+Lorsque le menu style est activé, la caméra tourne autour du joueur afin de le voir de tous les cotés !
 
 ---
 
-### Parcours
+### Autres paramètres du menu
 
-Chaque zone du jeu propose un **type de challenge différent** :
-- Sauts de plateforme en temps limité
-- Plateformes invisibles
-- Lasers et obstacles mobiles
-- Murs, leviers, ascenseurs
+- **Sound** :
+  Vous pouvez modifier le volume avec le curseur et activez/desactivez la musique et/ou les sons avec les 2 boutons à gauche :
+![image](https://github.com/user-attachments/assets/ca37013e-d6d8-4e66-968d-f4831b45b49e)
 
-Le joueur doit parfois activer des éléments pour progresser, résoudre de petites énigmes ou faire preuve de précision.
+- **Help** :
+  Cette option affiche des informations pour vous aider. Le lien du GitHub et de la vidéo de completion du jeu y sont :
+![image](https://github.com/user-attachments/assets/6c2b260f-6709-4a3e-994b-890674844ba2)
+
+- **Pause** :
+  Avec cette option, le temps se met en pause et vous pouvez ensuite continuer ou relancer le jeu :
+![image](https://github.com/user-attachments/assets/9436c80e-3abb-4ee6-a33f-ab6f234cb1ec)
+
+---
+
+### Lit
+
+Lorsque vous allez dans le lit, le jeu se met en pause et une animation se lance avec un ronflement :
+![image](https://github.com/user-attachments/assets/405b8ae1-a78e-4cc1-bbdb-c1b182e25304)
+
+Il suffit de se déplacer pour sortir du lit et reactiver le timer.
 
 ---
 
 ### Orbes
 
 Les **12 orbes** sont le cœur du gameplay.  
-Elles sont visibles de loin et placées dans des lieux accessibles uniquement après avoir complété les parcours.
+Elles sont visibles de loin graçe à leur effet lumineux. Vous devrez réussir des parcours et trouver comment atteindre certain endroit pour récolter toutes les orbes.
 
 ![image](https://github.com/user-attachments/assets/43fd5d98-6fb0-4cce-b9a0-51245e0b9997)
 ![image](https://github.com/user-attachments/assets/982d4f27-8ca4-4890-a867-f0def770b0d3)
 
+Pour récolter une orbe, il suffit d'aller dessus. Elle se deplacera jusqu'à son socle autour du portail :
 ![image](https://github.com/user-attachments/assets/bb6a9e80-8513-4bfd-a59d-aadad75260c7)
-![image](https://github.com/user-attachments/assets/405b8ae1-a78e-4cc1-bbdb-c1b182e25304)
 
-Lorsque le joueur s’en approche, un effet visuel et sonore est déclenché.  
-Une fois l’orbe collectée, elle disparaît et s’ajoute à l’interface.
+--- 
+
+### Parcours
+
+Le joueur doit parfois activer des éléments pour progresser, résoudre de petites énigmes ou faire preuve de rapidité.
+
+Il y a plusieurs type de plateformes pour les parcours :
+- Des plateformes qui apparaissent après l'activation d'un bouton. Elle disparaissent peu de temps apres donc il faut être rapide !
+- Des plateformes qui se déplace. Il faut bien viser et prédir où sera la plateforme pour ne pas tomber dans le vide !
+- Des plateformes fixes, souvent accompagné de laser.
+- Des petites îles et des éléments décoratifs utiles pour atteindre certain endroits.
+
+Les laser peuvent parfois avoir un mouvement. Si vous en touchez un, vous serez projetté violement !
+
 
 ---
 
