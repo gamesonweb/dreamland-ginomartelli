@@ -11,6 +11,8 @@ Built with **Babylon.js** and **JavaScript** for the **Games On Web 2025** conte
 - ## [📝 Documentation](https://github.com/gamesonweb/dreamland-ginomartelli/blob/3e0a2ddbc930d8722bea75b716b91a7db28c0841/Documentation.md)
 - ## [📁 Source Code](https://github.com/ginomartelli/Dream-scape)
 
+![image](https://github.com/user-attachments/assets/0882294b-e2f7-4c0a-97dc-7c18012ac42c)
+
 
 ## 🧭 TABLE OF CONTENTS
 - ### [🇬🇧 English version](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-english-version-1)
