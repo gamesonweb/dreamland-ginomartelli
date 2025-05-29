@@ -13,6 +13,7 @@
   - [Parcours](#parcours)
   - [Orbes](#orbes)
   - [Fin du jeu](#fin-du-jeu)
+  - [Menu développeur](#menu-développeur)
 - #### Assets
   - [Modèles 3D](#modèles-3d)
   - [Textures](#textures)
@@ -175,39 +176,73 @@ Le joueur doit traverser le portail pour terminer le jeu mais un dernier defi es
 ![image](https://github.com/user-attachments/assets/aff66ee7-635d-46b5-8459-2dd65043ded3)
 
 
+
+Le jeu est gagné si le joueur traverse le portail avant la fin des 30 minutes : 
+
+![image](https://github.com/user-attachments/assets/00da86af-2569-44b6-b090-b794180cfd20)
+
+
+Si les 30 minutes s'écoule avant que le joueur réussise, ceci apparaît :
+
+![image](https://github.com/user-attachments/assets/7caf828d-1082-45a1-bc2d-f40287f2cc01)
+
+
 ---
+
+### Menu développeur
+
+Appuyez sur la touche **i** (minuscule) pour activer le menu d'aide développeur : 
+
+![image](https://github.com/user-attachments/assets/ef58c781-f34d-4b8f-8a63-fd8b60fd1c55)
+
+Vous pouvez vous amusez avec les paramètres (et tricher en déplacant des élements) ! 
+Ce menu a été rajouté avec BABYLON afin de placer les éléments plus facilement lors de la création du monde. On a decidé de le laisser car il peut être amusant et peut aussi aider des joueurs si ils sont bloqués quelque part.
 
 ## 🧱 Assets
 
 ### Modèles 3D
 
-Tous les modèles 3D ont été réalisés par l’équipe dans **Blender**, incluant :
-- Îles, plateformes, piliers
-- Orbes, socles de checkpoint
-- Portail final
-- Boutons, interrupteurs, lasers, murs
+Tous les modèles 3D ont été réalisés par l’équipe dans **Blender**, à l'exception des formes simple qui sont crées directement avec BABYLON à la création du monde (plateformes, bouton, laser...).
 
-Les modèles ont été conçus pour être **cohérents visuellement** et optimisés pour le web.
+Le style de chaque modèle a été conçus pour être cohérents avec le style général et simple pour avoir un jeu optimisés pour le web.
+Les animations du joueur viennent de [Mixamo](https://www.mixamo.com/#/)
 
 ---
 
 ### Textures
 
-Le style utilise peu de textures :  
-- Couleurs unies (via matériaux Babylon.js)
-- Quelques éléments émissifs pour les lumières et effets brillants
+Le jeu utilise peu de textures :  
+- La texture des plateformes et du mur viennent de la même image, modifié sur Gimp :
+
+![platform](https://github.com/user-attachments/assets/017a8a4d-1cb9-4877-a827-6e103b18c50b)
+![buttonInvis](https://github.com/user-attachments/assets/3bf2143b-5e36-4f5a-9c46-e7ce4b4208a8)
+![platformLaser](https://github.com/user-attachments/assets/832f96ab-48b9-43a8-a9b8-9730b1cbe947)
+![platformInvis](https://github.com/user-attachments/assets/3ac86229-92f5-4bed-aabf-6ce12844f96f)
+![plateformMove](https://github.com/user-attachments/assets/f8da5b4a-d7bd-4ee7-9757-d201dd3ff295)
+![buttonSimon](https://github.com/user-attachments/assets/841d6203-e301-4547-a1e2-bd31d042e4c1)
+
+- Les îles, le portail, les orbes, le pont final, les lampes, les socles des checkpoints et les bancs ont comme texture une partie de l'image *gradient.png* :
+
+![gradient](https://github.com/user-attachments/assets/6171f730-c72e-4325-a1ee-77fc01d0c3cc)
+
 - Le glow et les ombres apportent la profondeur visuelle sans surcharge
+- Le ciel à été fait sur Gimp :
+
+![ciel2](https://github.com/user-attachments/assets/e0dddc61-0085-46d6-ab49-2966a0e71cbd)
+
+- L'intérieur du portail :
+
+![portail](https://github.com/user-attachments/assets/95f81d0c-34b1-4bf3-9657-3026ec9aaa38)
+
+Tous les autres éléments ont une couleur uni.
 
 ---
 
 ### Sons et musique
 
-Les sons ont été ajoutés pour renforcer l’immersion :
-- Sons d’interaction (boutons, orbes, portail)
-- Ambiance de fond discrète
-- Aucun bruitage inutile, afin de garder un ton calme et mystérieux
+Les sons viennent de Youtube et sont utilisables gratuitement sans copyright.
 
-Les sons sont stockés localement dans le projet et joués avec le système audio Babylon.js.
+La musique : [https://youtu.be/zjTyprOLMxo?si=DbDfk77EcCsBjdC_](https://youtu.be/zjTyprOLMxo?si=DbDfk77EcCsBjdC_)  
 
 ---
 
