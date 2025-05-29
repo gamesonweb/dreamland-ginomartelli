@@ -121,21 +121,59 @@ Pour récolter une orbe, il suffit d'aller dessus. Elle se deplacera jusqu'à so
 Le joueur doit parfois activer des éléments pour progresser, résoudre de petites énigmes ou faire preuve de rapidité.
 
 Il y a plusieurs type de plateformes pour les parcours :
-- Des plateformes qui apparaissent après l'activation d'un bouton. Elle disparaissent peu de temps apres donc il faut être rapide !
-- Des plateformes qui se déplace. Il faut bien viser et prédir où sera la plateforme pour ne pas tomber dans le vide !
-- Des plateformes fixes, souvent accompagné de laser.
-- Des petites îles et des éléments décoratifs utiles pour atteindre certain endroits.
+- Des plateformes qui apparaissent après l'activation d'un bouton. Elle disparaissent peu de temps apres donc il faut être rapide :
+
+![image](https://github.com/user-attachments/assets/9d0b9378-86c4-493a-bcb1-47e9d3e411f7)
+
+- Des plateformes qui se déplace. Il faut bien viser et prédir où sera la plateforme pour ne pas tomber dans le vide :
+
+![image](https://github.com/user-attachments/assets/ffd3c39b-c539-4b12-bec3-875a0b619412)
+
+
+- Des plateformes fixes, souvent accompagné de laser :
+
+![image](https://github.com/user-attachments/assets/901f4692-6856-4e4b-9b6f-8361cbaa9857)
+
+
+- Des petites îles et des éléments décoratifs utiles pour atteindre certain endroits :
+
+![image](https://github.com/user-attachments/assets/85602fad-fe1f-42cc-b1d1-a24facc5b73a)
+
+
 
 Les laser peuvent parfois avoir un mouvement. Si vous en touchez un, vous serez projetté violement !
 
+
+
+Il y a aussi des gros murs qu'il faut faire disparaître pour aller derrière: allez sur le bouton qui activera le défi. 
+
+![image](https://github.com/user-attachments/assets/94401558-9a94-4c89-ab5c-dfc83d4a7d80)
+
+Une des touches sur le mur va s'illuminer : il faut appuyer sur la touche du mouvement correspondant. Après avoir réussi la première séquence, une touche supplémentaire aléatoire va s'illuminer, et la nouvelle séquence va apparaître sur le mur. Il faudra alors repeter la séquence en rajoutant la nouvelle touche à la fin. Cela se repete un certain nombre de fois jusqu'à disparition du mur.
+
+Les touches de la séquence s'affichent en jaune. Lorsque vous appuyez sur la bonne touche elle s'affichera en vert. Vous pouvez ensuite appuyer sur la prochaine touche de la séquence.
+
+![image](https://github.com/user-attachments/assets/9ed5a6ba-ba6c-4e66-bdc7-369777676c97)
+![image](https://github.com/user-attachments/assets/eeab3f49-8c67-4321-9f53-a552b69d398e)
+
+> [!TIP]
+> Si vous êtes bloqué à un certain endroit dans le jeu, vous pouvez regarder la [vidéo de complétion](https://www.youtube.com/watch?v=XJVGw6Uxr3U)
 
 ---
 
 ### Fin du jeu
 
-Quand les 12 orbes ont été récupérées, un **portail de sortie** s’active dans la zone centrale.  
-Le joueur doit s’y rendre pour terminer le jeu avant la fin du compte à rebours de 30 minutes.  
-Une cinématique finale est déclenchée.
+Quand les 12 orbes ont été récupérées, une animation se lance et un pont reliant l'île du début à l'île du portail apparait. Le portail s'active :
+
+![image](https://github.com/user-attachments/assets/7c39f229-67b6-46b8-9913-a477bb4c2791)
+
+![image](https://github.com/user-attachments/assets/c5e9372a-a7c8-4ee0-9b42-9f1d40d6f1b9)
+
+
+Le joueur doit traverser le portail pour terminer le jeu mais un dernier defi est apparu à l'entrée du pont :  
+
+![image](https://github.com/user-attachments/assets/aff66ee7-635d-46b5-8459-2dd65043ded3)
+
 
 ---
 
