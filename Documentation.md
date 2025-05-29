@@ -49,7 +49,7 @@ Vous incarnez un étudiant piégé dans un étrange rêve rempli d'îles flottan
 Votre but : **récupérer 12 orbes dispersées** dans le monde pour activer le portail final et vous échapper **avant la fin du temps imparti (30 minutes)**.  
 Le jeu propose des mécaniques de plateforme, de logique et d'observation, avec une progression libre entre les zones.
 
-Il faut cliquer sur **Play** pour lancer le jeu. Apres le chargement, le menu **Help** est affiché pour vous aider. Il suffit de cliquer hors du menu **Help** pour le chacher. 
+Il faut cliquer sur **Play** pour lancer le jeu. Apres le chargement, le menu **Help** est affiché pour vous aider. Il suffit de cliquer hors du menu **Help** pour le cacher. 
 
 ![image](https://github.com/user-attachments/assets/e4c9f694-2fa2-45b3-9f6b-1b37413a9e04)
 
@@ -155,7 +155,7 @@ Types de plateformes :
 
 ![image](https://github.com/user-attachments/assets/901f4692-6856-4e4b-9b6f-8361cbaa9857)
 
-- Îles et  éléments décoratifs utiles pour atteindre certain endroits :
+- Petites îles et éléments décoratifs utiles pour atteindre certain endroits :
 
 ![image](https://github.com/user-attachments/assets/85602fad-fe1f-42cc-b1d1-a24facc5b73a)
 
@@ -272,6 +272,8 @@ The game features platforming, logic, and observation mechanics, with a free pro
 
 Click on **Play** to launch the game. After loading, the **Help** menu appears. Click outside the Help panel to close it.
 
+![image](https://github.com/user-attachments/assets/e4c9f694-2fa2-45b3-9f6b-1b37413a9e04)
+
 You start in a bed on the starting island. To control the player and camera, click on the screen to hide the mouse.  
 The timer starts once you leave the bed. Remaining time is shown at the bottom. Good luck!
 
@@ -279,7 +281,7 @@ The timer starts once you leave the bed. Remaining time is shown at the bottom. 
 
 ### Controls
 
-- **WASD** – Movement
+- **ZQSD** – Movement
 - **Space** – Jump
 - **Shift** – Sprint (hold)
 - **Mouse** – Camera look
@@ -290,17 +292,22 @@ The timer starts once you leave the bed. Remaining time is shown at the bottom. 
 Keybindings can be modified via the **Controls** menu. Click on the action button, then press a new key.  
 Camera sensitivity can also be adjusted.
 
+![image](https://github.com/user-attachments/assets/e408f429-8a16-4b23-820e-5fa26098829f)
+
 ---
 
 ### Checkpoints
 
 The world is built around **paths leading to different zones**, each containing several orbs.  
+
 There are 12 **glowing pedestals** acting as **unlockable checkpoints**. Just step on one to activate it.  
 They appear in the **Checkpoints** menu, where you can click a color dot to teleport.
 
+![image](https://github.com/user-attachments/assets/2474e2e2-876c-4de5-aec5-f1888af73488)
+
 If you fall, you'll respawn at the last unlocked checkpoint. If none are unlocked yet (except the default one), you respawn in bed.
 
-*A default checkpoint is available at the start in case of bugs or being stuck.*
+> A default checkpoint is available at the start in case of bugs or being stuck.
 
 ---
 
@@ -310,6 +317,8 @@ You can change your player's clothing colors from the **Style** menu. Click on t
 
 While the style menu is open, the camera rotates around the player for a full view.
 
+![image](https://github.com/user-attachments/assets/08b7f100-edab-4000-8dec-cadb7b1b91fc)
+
 ---
 
 ### Other Menu Settings
@@ -317,17 +326,26 @@ While the style menu is open, the camera rotates around the player for a full vi
 - **Sound**:  
   Adjust the volume with the slider, toggle music and sounds via the two buttons.
 
+![image](https://github.com/user-attachments/assets/ca37013e-d6d8-4e66-968d-f4831b45b49e)
+
 - **Help**:  
   Displays help and links to the GitHub and a full gameplay video.
 
+![image](https://github.com/user-attachments/assets/6c2b260f-6709-4a3e-994b-890674844ba2)
+
 - **Pause**:  
   Freezes time. You can continue or restart the game from here.
+
+![image](https://github.com/user-attachments/assets/9436c80e-3abb-4ee6-a33f-ab6f234cb1ec)
 
 ---
 
 ### Bed
 
 Going back to the bed pauses the game and triggers a snoring animation.  
+
+![image](https://github.com/user-attachments/assets/405b8ae1-a78e-4cc1-bbdb-c1b182e25304)
+
 Move to get out of bed and resume the timer.
 
 ---
@@ -337,7 +355,12 @@ Move to get out of bed and resume the timer.
 The **12 orbs** are the core gameplay.  
 They glow and are visible from afar. You'll need to solve puzzles and complete platforming to reach them.
 
+![image](https://github.com/user-attachments/assets/43fd5d98-6fb0-4cce-b9a0-51245e0b9997)
+![image](https://github.com/user-attachments/assets/982d4f27-8ca4-4890-a867-f0def770b0d3)
+
 To collect one, just walk over it. It will fly to a pedestal around the portal.
+
+![image](https://github.com/user-attachments/assets/bb6a9e80-8513-4bfd-a59d-aadad75260c7)
 
 ---
 
@@ -347,15 +370,32 @@ Players must activate elements, solve small puzzles, or use timing skills.
 
 Types of platforms:
 - **Timed**: Appear after pressing a button, disappear shortly after.
+
+![image](https://github.com/user-attachments/assets/9d0b9378-86c4-493a-bcb1-47e9d3e411f7)
+
 - **Moving**: You must predict their movement and jump at the right time.
+
+![image](https://github.com/user-attachments/assets/ffd3c39b-c539-4b12-bec3-875a0b619412)
+
 - **Fixed**: Often combined with lasers. Touching a laser will launch you back.
-- **Decorative islands**: Useful for exploration and reaching areas.
+
+![image](https://github.com/user-attachments/assets/901f4692-6856-4e4b-9b6f-8361cbaa9857)
+
+- Little islands and decorative elements seful for exploration and reaching areas.
+
+![image](https://github.com/user-attachments/assets/85602fad-fe1f-42cc-b1d1-a24facc5b73a)
 
 There are also large walls hiding areas.  
-Step on a button to trigger a **memory mini-game** (like Simon says):  
+
+![image](https://github.com/user-attachments/assets/94401558-9a94-4c89-ab5c-dfc83d4a7d80)
+
+Step on a button to trigger a **memory mini-game**:  
 - A direction lights up. Press the corresponding movement key.
 - A new direction is added each round. Repeat the full sequence.
 - Correct inputs turn green. The wall disappears once all rounds are done.
+
+![image](https://github.com/user-attachments/assets/9ed5a6ba-ba6c-4e66-bdc7-369777676c97)
+![image](https://github.com/user-attachments/assets/eeab3f49-8c67-4321-9f53-a552b69d398e)
 
 > [!TIP]  
 > If you're stuck, watch the [completion video](https://www.youtube.com/watch?v=XJVGw6Uxr3U)
@@ -365,10 +405,21 @@ Step on a button to trigger a **memory mini-game** (like Simon says):
 ### End of the Game
 
 When all 12 orbs are collected, an animation plays and a bridge appears linking the start island to the portal.  
+
+![image](https://github.com/user-attachments/assets/c5e9372a-a7c8-4ee0-9b42-9f1d40d6f1b9)
+
 The portal activates, but a **final challenge** awaits at the bridge’s entrance.
 
-The game is won if you cross the portal before the 30-minute timer runs out.  
+![image](https://github.com/user-attachments/assets/aff66ee7-635d-46b5-8459-2dd65043ded3)
+
+
+The game is won if you cross the portal before the 30-minute timer runs out. 
+
+![image](https://github.com/user-attachments/assets/00da86af-2569-44b6-b090-b794180cfd20)
+
 If time runs out before that, you lose and see a fail screen.
+
+![image](https://github.com/user-attachments/assets/7caf828d-1082-45a1-bc2d-f40287f2cc01)
 
 ---
 
@@ -376,6 +427,9 @@ If time runs out before that, you lose and see a fail screen.
 
 Press **i** to toggle the **developer debug menu**.
 
+![image](https://github.com/user-attachments/assets/ef58c781-f34d-4b8f-8a63-fd8b60fd1c55)
+
+Use **Shift** to move the camera.
 You can experiment and move elements freely — even cheat!  
 This menu was added with BABYLON to help place objects during development.  
 We kept it because it’s fun and can help players who get stuck.
@@ -398,20 +452,28 @@ The style was chosen for consistency and browser performance.
 The game uses minimal textures:
 
 - Platforms and walls use the same base texture modified in Gimp:
-  - `platform.png`
-  - `platformLaser.png`
-  - `platformInvis.png`
-  - `platformMove.png`
-  - `buttonSimon.png`
-  - `buttonInvis.png`
 
-- Islands, portal, orbs, final bridge, lamps, checkpoint pedestals, benches use a section of the same `gradient.png`
+![platform](https://github.com/user-attachments/assets/017a8a4d-1cb9-4877-a827-6e103b18c50b)
+![buttonInvis](https://github.com/user-attachments/assets/3bf2143b-5e36-4f5a-9c46-e7ce4b4208a8)
+![platformLaser](https://github.com/user-attachments/assets/832f96ab-48b9-43a8-a9b8-9730b1cbe947)
+![platformInvis](https://github.com/user-attachments/assets/3ac86229-92f5-4bed-aabf-6ce12844f96f)
+![plateformMove](https://github.com/user-attachments/assets/f8da5b4a-d7bd-4ee7-9757-d201dd3ff295)
+![buttonSimon](https://github.com/user-attachments/assets/841d6203-e301-4547-a1e2-bd31d042e4c1)
 
-- Skybox created in Gimp: `ciel2.png`
+- Islands, portal, orbs, final bridge, lamps, checkpoint pedestals, benches use a section of the same `gradient.png` :
 
-- Portal interior: `portail.png`
+![gradient](https://github.com/user-attachments/assets/6171f730-c72e-4325-a1ee-77fc01d0c3cc)
 
-Other elements use solid colors, glow effects, and shadowing for depth.
+- Skybox created in Gimp:
+
+![ciel2](https://github.com/user-attachments/assets/e0dddc61-0085-46d6-ab49-2966a0e71cbd)
+
+- Portal interior:
+
+![portail](https://github.com/user-attachments/assets/95f81d0c-34b1-4bf3-9657-3026ec9aaa38)
+
+Other elements use solid colors
+Glow effects and shadowing add depth.
 
 ---
 
