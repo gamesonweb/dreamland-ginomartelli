@@ -8,9 +8,10 @@ Built with **Babylon.js** and **JavaScript** for the **Games On Web 2025** conte
 - ## [🎥 Trailer](https://youtu.be/iB-jYRbTJ7w?si=keI-1kG80voJ0IJM)
 - ## [🔎 Presentation Video](https://youtu.be/iFlcLugvVOw)
 - ## [💯 12 Orbs Speedrun](https://youtu.be/XJVGw6Uxr3U)
-- ## [🔥 Hardcore Mode Speedrun]()
+- ## [🔥 Hardcore Mode Speedrun](https://youtu.be/UyKCX5tS8VQ)
 - ## [📝 Documentation](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ae5a949ae5b68a4a1851b6c51ee0c61e3adad2a3/Documentation.md)
 - ## [📁 Source Code](https://github.com/ginomartelli/Dream-scape)
+- ## [📼 Video Playlist](https://www.youtube.com/playlist?list=PLZdl2luFG2HZQMwK8LpO6cA4aXuxG2vfP)
 
 ![image](https://github.com/user-attachments/assets/0882294b-e2f7-4c0a-97dc-7c18012ac42c)
 
@@ -100,7 +101,7 @@ Good luck... you'll need it.
 
 ![image](https://github.com/user-attachments/assets/b66ea8f0-dfd2-43e1-bcfe-189950a782b9)
 
-[Hardcore Mode Video]()
+[Hardcore Mode Video](https://youtu.be/UyKCX5tS8VQ)
 
 ---
 
@@ -221,7 +222,7 @@ Bonne chance... vous en aurez besoin.
 
 ![image](https://github.com/user-attachments/assets/0ccc8054-d419-4f3a-8b33-0ba3520b18ce)
 
-[Vidéo du mode hardcore]()
+[Vidéo du mode hardcore](https://youtu.be/UyKCX5tS8VQ)
 
 ---
 
