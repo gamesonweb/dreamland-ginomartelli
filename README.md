@@ -29,6 +29,9 @@ Built with **Babylon.js** and **JavaScript** for the **Games On Web 2025** conte
   - [🔥 Mode Hardcore](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-mode-hardcore)
   - [👥 Présentation de l'équipe](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-pr%C3%A9sentation-de-l%C3%A9quipe)
 
+
+![image](https://github.com/user-attachments/assets/d61d09b0-1896-449a-9eb6-99afe30a5fda)
+
 ---
 
 ## 🇬🇧 English version
