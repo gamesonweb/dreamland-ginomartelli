@@ -8,6 +8,7 @@ Built with **Babylon.js** and **JavaScript** for the **Games On Web 2025** conte
 - ## [🎥 Trailer](https://youtu.be/iB-jYRbTJ7w?si=keI-1kG80voJ0IJM)
 - ## [🔎 Presentation Video](https://youtu.be/iFlcLugvVOw)
 - ## [💯 12 Orbs Speedrun](https://youtu.be/XJVGw6Uxr3U)
+- ## [🔥 Hardcore Mode Speedrun]()
 - ## [📝 Documentation](https://github.com/gamesonweb/dreamland-ginomartelli/blob/51fc9078f8d7fb18111acfada664bbfc0d356b5b/Documentation.md)
 - ## [📁 Source Code](https://github.com/ginomartelli/Dream-scape)
 
@@ -19,11 +20,13 @@ Built with **Babylon.js** and **JavaScript** for the **Games On Web 2025** conte
   - [🔍 Game Overview](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-game-overview)
   - [🎮 How to Play](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-how-to-play-)
   - [⚙ In-Game Menu Options](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-in-game-menu-options)
+  - [🔥 Hardcore Mode](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-hardcore-mode)
   - [👥 Team Presentation](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-team-presentation)
 - ### [🇫🇷 Version française](https://github.com/ginomartelli/Dream-scape/blob/main/README.md#-version-fran%C3%A7aise-1)
   - [🔍 Présentation du Jeu](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-pr%C3%A9sentation-du-jeu)
   - [🎮 Comment Jouer](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-comment-jouer-)
   - [⚙ Options Du Menu](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-options-du-menu-en-jeu)
+  - [🔥 Mode Hardcore](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-mode-hardcore)
   - [👥 Présentation de l'équipe](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/README.md#-pr%C3%A9sentation-de-l%C3%A9quipe)
 
 ---
@@ -76,6 +79,25 @@ Once all 12 orbs are collected, the **escape portal** will open. Will you make i
 >
 >Need help ? Watch the [Completion Video](https://youtu.be/XJVGw6Uxr3U)
 
+---
+
+### 🔥 Hardcore Mode
+
+> The Hardcore mode is for players who aren't afraid of real challenges!
+
+🎯 Goal:
+Climb to the top of the world while collecting every single orb along the way.
+
+⚠️ Rules:
+-No checkpoints
+-Only one possible path
+-Time limit: 1 hour
+
+Good luck... you'll need it.
+
+![image](https://github.com/user-attachments/assets/b66ea8f0-dfd2-43e1-bcfe-189950a782b9)
+
+[Hardcore Mode Video]()
 ---
 
 ### 👥 Team Presentation  
@@ -176,6 +198,26 @@ Serez-vous assez rapide pour vous réveiller à temps ?
 >Plus d'infos dans la [Documentation](https://github.com/gamesonweb/dreamland-ginomartelli/blob/51fc9078f8d7fb18111acfada664bbfc0d356b5b/Documentation.md)
 >
 >Besoin d'aide ? Regardez la [Completion Video](https://youtu.be/XJVGw6Uxr3U)
+
+---
+
+### 🔥 Mode Hardcore
+
+> Le mode Hardcore est réservé aux joueurs qui n'ont pas peur des vrais défis !
+
+🎯 Objectif :
+Atteindre le sommet du monde en récupérant toutes les orbes sur votre chemin.
+
+⚠️ Règles :
+-Aucun checkpoint
+-Un seul chemin possible
+-Temps limite : 1 heure
+
+Bonne chance... vous en aurez besoin.
+
+![image](https://github.com/user-attachments/assets/0ccc8054-d419-4f3a-8b33-0ba3520b18ce)
+
+[Vidéo du mode hardcore]()
 
 ---
 
