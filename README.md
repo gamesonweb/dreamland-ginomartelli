@@ -9,7 +9,7 @@ Built with **Babylon.js** and **JavaScript** for the **Games On Web 2025** conte
 - ## [🔎 Presentation Video](https://youtu.be/iFlcLugvVOw)
 - ## [💯 12 Orbs Speedrun](https://youtu.be/XJVGw6Uxr3U)
 - ## [🔥 Hardcore Mode Speedrun]()
-- ## [📝 Documentation](https://github.com/gamesonweb/dreamland-ginomartelli/blob/51fc9078f8d7fb18111acfada664bbfc0d356b5b/Documentation.md)
+- ## [📝 Documentation](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ae5a949ae5b68a4a1851b6c51ee0c61e3adad2a3/Documentation.md)
 - ## [📁 Source Code](https://github.com/ginomartelli/Dream-scape)
 
 ![image](https://github.com/user-attachments/assets/0882294b-e2f7-4c0a-97dc-7c18012ac42c)
@@ -75,7 +75,7 @@ Once all 12 orbs are collected, the **escape portal** will open. Will you make i
 - ⏸️ **PAUSE** — Pause the game  
 
 >[!TIP]
->More details in the [Documentation](https://github.com/gamesonweb/dreamland-ginomartelli/blob/51fc9078f8d7fb18111acfada664bbfc0d356b5b/Documentation.md)
+>More details in the [Documentation](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ae5a949ae5b68a4a1851b6c51ee0c61e3adad2a3/Documentation.md)
 >
 >Need help ? Watch the [Completion Video](https://youtu.be/XJVGw6Uxr3U)
 
@@ -196,7 +196,7 @@ Serez-vous assez rapide pour vous réveiller à temps ?
 - ⏸️ **PAUSE** — Met le jeu en pause 
 
 >[!TIP]
->Plus d'infos dans la [Documentation](https://github.com/gamesonweb/dreamland-ginomartelli/blob/51fc9078f8d7fb18111acfada664bbfc0d356b5b/Documentation.md)
+>Plus d'infos dans la [Documentation](https://github.com/gamesonweb/dreamland-ginomartelli/blob/ae5a949ae5b68a4a1851b6c51ee0c61e3adad2a3/Documentation.md)
 >
 >Besoin d'aide ? Regardez la [Completion Video](https://youtu.be/XJVGw6Uxr3U)
 
