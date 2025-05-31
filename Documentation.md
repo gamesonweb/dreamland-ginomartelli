@@ -15,6 +15,7 @@
   - [Parcours](#parcours)
   - [Orbes](#orbes)
   - [Fin du jeu](#fin-du-jeu)
+  - [Mode Hardcore](#mode-hardcore)
   - [Menu développeur](#menu-développeur)
   - [Plus](#plus) 
 - #### Assets
@@ -33,6 +34,7 @@
   - [Parkour](#parkour)
   - [Orbs](#orbs)
   - [End of the Game](#end-of-the-game)
+  - [Hardcore Mode](#hardcore-mode)
   - [Developer Menu](#developer-menu)
   - [More](#more)
 - #### Assets
@@ -201,6 +203,20 @@ Sinon, vous perdez et voyez un écran d’échec :
 
 ![image](https://github.com/user-attachments/assets/7caf828d-1082-45a1-bc2d-f40287f2cc01)
 
+--- 
+
+### Mode Hardcore
+
+Le monde est entièrement vertical et il n’y a qu’un seul chemin possible pour atteindre le sommet.
+
+🎯 Objectif :
+-Récupérer 9 orbes tout au long du parcours
+-Récupérer 3 orbes finales sur la dernière île
+-Le tout en moins de 1 heure – sans aucun checkpoint
+
+![image](https://github.com/user-attachments/assets/a17732a9-3732-42b4-9cc7-8d10e066ef44)
+
+🎥 Une vidéo de démonstration est disponible dans le fichier README.md
 
 ---
 
@@ -438,6 +454,19 @@ If time runs out before that, you lose and see a fail screen.
 ![image](https://github.com/user-attachments/assets/7caf828d-1082-45a1-bc2d-f40287f2cc01)
 
 ---
+
+### Hardcore Mode
+
+The world is completely vertical, and there's only one path to the top.
+
+🎯 Goal:
+-Collect 9 orbs along the way
+-Collect 3 final orbs on the last island
+-All of this in under 1 hour – with no checkpoints
+
+![image](https://github.com/user-attachments/assets/a17732a9-3732-42b4-9cc7-8d10e066ef44)
+
+🎥 A demo video is available in the README.md file
 
 ### Developer Menu
 
