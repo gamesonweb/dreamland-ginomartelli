@@ -16,6 +16,7 @@
   - [Orbes](#orbes)
   - [Fin du jeu](#fin-du-jeu)
   - [Menu développeur](#menu-développeur)
+  - [Plus](#plus) 
 - #### Assets
   - [Modèles 3D](#modèles-3d)
   - [Textures](#textures)
@@ -33,6 +34,7 @@
   - [Orbs](#orbs)
   - [End of the Game](#end-of-the-game)
   - [Developer Menu](#developer-menu)
+  - [More](#more)
 - #### Assets
   - [3D Models](#3d-models)
   - [Textures](https://github.com/gamesonweb/dreamland-ginomartelli/blob/main/Documentation.md#textures-1)
@@ -213,6 +215,18 @@ Vous pouvez y expérimenter et déplacer des éléments librement — voire tric
 Ce menu a été ajouté avec BABYLON pour aider au placement pendant le développement.  
 Nous l’avons conservé car il est amusant et peut aider les joueurs bloqués.
 
+---
+
+### Plus
+
+Vous pouvez continuer à jouer après avoir perdu ou gagné.
+
+Un message s'affiche lorsque le jeu est lancé sur téléphone : 
+
+![image](https://github.com/user-attachments/assets/781a27e8-3f1a-4ff0-8e34-b426be0ac716)
+
+---
+
 ## 🧱 Assets
 
 ### Modèles 3D
@@ -258,6 +272,8 @@ Le glow et les ombres apportent déjà de la profondeur visuelle sans surcharge
 
 Tous les effets sonores sont libres et viennent de YouTube (copyright-free).  
 Musique principale : [https://youtu.be/zjTyprOLMxo?si=DbDfk77EcCsBjdC_](https://youtu.be/zjTyprOLMxo?si=DbDfk77EcCsBjdC_)  
+
+Certains effets sonores sont détectables à partir d'une certaine distance, par exemple les bruits des pas du personnage ou les orbes flottantes.
 
 ---
 
@@ -436,6 +452,16 @@ We kept it because it’s fun and can help players who get stuck.
 
 ---
 
+### More
+
+You can keep playing after losing or winning.
+
+A message appears when the game is launched on a mobile phone:
+
+![image](https://github.com/user-attachments/assets/781a27e8-3f1a-4ff0-8e34-b426be0ac716)
+
+---
+
 ## 🧱 Assets
 
 ### 3D Models
@@ -481,6 +507,8 @@ Glow effects and shadowing add depth.
 
 All sound effects are free and sourced from YouTube (copyright-free).  
 Main music: [https://youtu.be/zjTyprOLMxo?si=DbDfk77EcCsBjdC_](https://youtu.be/zjTyprOLMxo?si=DbDfk77EcCsBjdC_)
+
+Some sound effects can be heard from a certain distance, such as the character's footsteps or the floating orbs.
 
 ---
 
