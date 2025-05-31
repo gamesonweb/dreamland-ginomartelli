@@ -114,7 +114,7 @@ Pendant que ce menu est ouvert, la caméra tourne autour du joueur pour avoir un
 
 - **Pause** : Stop le chronomètre. Vous pouvez reprendre ou recommencer la partie depuis ce menu :
 
-![image](https://github.com/user-attachments/assets/9436c80e-3abb-4ee6-a33f-ab6f234cb1ec)
+![image](https://github.com/user-attachments/assets/9d78e069-d856-44ab-972f-4df86f88808c)
 
 ---
 
@@ -196,12 +196,13 @@ Le joueur doit traverser le portail pour terminer le jeu mais un dernier defi es
 
 La partie est gagnée si vous traversez le portail avant la fin des 30 minutes : 
 
-![image](https://github.com/user-attachments/assets/00da86af-2569-44b6-b090-b794180cfd20)
+![image](https://github.com/user-attachments/assets/d6d30dec-3d6e-428f-8b16-9787e4ffb1a0)
 
 
 Sinon, vous perdez et voyez un écran d’échec :
 
-![image](https://github.com/user-attachments/assets/7caf828d-1082-45a1-bc2d-f40287f2cc01)
+![image](https://github.com/user-attachments/assets/c9a6f43e-cf93-4e1d-ab14-50b3429c000e)
+
 
 --- 
 
@@ -210,9 +211,9 @@ Sinon, vous perdez et voyez un écran d’échec :
 Le monde est entièrement vertical et il n’y a qu’un seul chemin possible pour atteindre le sommet.
 
 🎯 Objectif :
--Récupérer 9 orbes tout au long du parcours
--Récupérer 3 orbes finales sur la dernière île
--Le tout en moins de 1 heure – sans aucun checkpoint
+- Récupérer 9 orbes tout au long du parcours
+- Récupérer 3 orbes finales sur la dernière île
+- Le tout en moins de 1 heure – sans aucun checkpoint
 
 ![image](https://github.com/user-attachments/assets/a17732a9-3732-42b4-9cc7-8d10e066ef44)
 
@@ -368,7 +369,7 @@ While the style menu is open, the camera rotates around the player for a full vi
 - **Pause**:  
   Freezes time. You can continue or restart the game from here.
 
-![image](https://github.com/user-attachments/assets/9436c80e-3abb-4ee6-a33f-ab6f234cb1ec)
+![image](https://github.com/user-attachments/assets/ec26761e-2832-4c9a-b556-289ac4764095)
 
 ---
 
@@ -447,11 +448,11 @@ The portal activates, but a **final challenge** awaits at the bridge’s entranc
 
 The game is won if you cross the portal before the 30-minute timer runs out. 
 
-![image](https://github.com/user-attachments/assets/00da86af-2569-44b6-b090-b794180cfd20)
+![image](https://github.com/user-attachments/assets/36988a17-041f-4107-a814-b11ee44c596c)
 
 If time runs out before that, you lose and see a fail screen.
 
-![image](https://github.com/user-attachments/assets/7caf828d-1082-45a1-bc2d-f40287f2cc01)
+![image](https://github.com/user-attachments/assets/d49eb578-684c-4842-a2b6-2ae4ccdf3863)
 
 ---
 
@@ -460,9 +461,9 @@ If time runs out before that, you lose and see a fail screen.
 The world is completely vertical, and there's only one path to the top.
 
 🎯 Goal:
--Collect 9 orbs along the way
--Collect 3 final orbs on the last island
--All of this in under 1 hour – with no checkpoints
+- Collect 9 orbs along the way
+- Collect 3 final orbs on the last island
+- All of this in under 1 hour – with no checkpoints
 
 ![image](https://github.com/user-attachments/assets/a17732a9-3732-42b4-9cc7-8d10e066ef44)
 
