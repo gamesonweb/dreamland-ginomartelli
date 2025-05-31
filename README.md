@@ -89,15 +89,16 @@ Once all 12 orbs are collected, the **escape portal** will open. Will you make i
 Climb to the top of the world while collecting every single orb along the way.
 
 ⚠️ Rules:
--No checkpoints
--Only one possible path
--Time limit: 1 hour
+- No checkpoints
+- Only one possible path
+- Time limit: 1 hour
 
 Good luck... you'll need it.
 
 ![image](https://github.com/user-attachments/assets/b66ea8f0-dfd2-43e1-bcfe-189950a782b9)
 
 [Hardcore Mode Video]()
+
 ---
 
 ### 👥 Team Presentation  
@@ -209,9 +210,9 @@ Serez-vous assez rapide pour vous réveiller à temps ?
 Atteindre le sommet du monde en récupérant toutes les orbes sur votre chemin.
 
 ⚠️ Règles :
--Aucun checkpoint
--Un seul chemin possible
--Temps limite : 1 heure
+- Aucun checkpoint
+- Un seul chemin possible
+- Temps limite : 1 heure
 
 Bonne chance... vous en aurez besoin.
 
